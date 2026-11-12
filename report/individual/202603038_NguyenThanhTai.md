@@ -21,7 +21,6 @@ Tôi đã hoàn thành ba task chính và đã Save/export các ZIP theo đúng 
 | cp6_coverage | chưa có | 0 / 1 | 3 |
 | **Tổng tối đa** | | | **100** |
 
-Kết quả tự kiểm ba tier hiện tại là `50.5 / 82` điểm, chỉ dùng để tự QC:
 
 - `easy_semantic`: mIoU `0.689`, coverage `89.9%`, `12.9 / 20`.
 - `medium_instance`: metric `0.712`, `22.2 / 32`; mean matched IoU `0.778`, P@0.5 `0.54`, R@0.5 `0.92`; TP `65`, FP `55`, FN `6`; submitted `120` so với GT `71`.
